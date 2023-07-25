@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+table{
+  width: 60vh;
+  height: 80vh;
+  border: solid 1px black;
+}
+select{
+  width: 50vh;
+  height: 50vh;
+}
